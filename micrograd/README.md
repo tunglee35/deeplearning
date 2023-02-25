@@ -5,6 +5,8 @@ Source: a backpropgagation library written in python (according to https://karpa
 ```
 pip install -r requirements.txt
 ```
+# Implementation
+- WIP
 
 ## Run tests
 * The goal here is to observe the stuffs you can do with micrograd
